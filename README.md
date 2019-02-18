@@ -1,2 +1,2 @@
 # Chat
-Chat(TCP) fait en C++ avec Qt
+Chat(TCP) fait avec Qt en C++ 
